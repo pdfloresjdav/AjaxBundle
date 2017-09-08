@@ -1,5 +1,5 @@
 {
-    "name": "troopers/ajax-bundle",
+    "name": "pdfloresjdav/ajax-bundle",
     "type": "symfony-bundle",
     "description": "Symfony AjaxBundle",
     "keywords": ["ajax"],
