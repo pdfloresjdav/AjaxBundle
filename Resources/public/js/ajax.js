@@ -4,7 +4,7 @@ $(document).ready(function() {
         window.loader = '<div id="canvasloader-container" ><img src="/bundles/troopersajax/img/three-dots.svg" style="width: 80%; padding-top: 15px;"/></div>';
     }
     if (window.loaderOverlay == undefined) {
-        window.loaderOverlay = '<div id="canvasloader-container--overlay"></div>';
+        window.loaderOverlay = '<div></div>';
     }
 
     $wrapper = $('<div style="display: none;"></div>');
